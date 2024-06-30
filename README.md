@@ -1,8 +1,7 @@
 # Human-Following-Robot
 A project demonstrating a human-following robot built using Arduino, infrared sensors, ultrasonic sensors, and other components.
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 The Human Following Robot is designed to autonomously follow a human within a specific range. It uses sensors to detect and distinguish humans from other objects, ensuring it follows the correct target. The robot can be utilized in various applications, including industrial automation, home assistance, and delivery services.
 Components and Their Purposes
@@ -44,3 +43,9 @@ Disadvantages
     Programming Limitations: Restricted to the functionality programmed into it, making it less adaptable to unexpected situations.
     Cost: Building and maintaining the robot can be expensive, especially with high-quality sensors and components.
     Potential Over-Reliance: Over-reliance on such robots can lead to reduced human intervention and oversight, potentially causing issues if the robot malfunctions.
+
+
+
+-This project was completed during my freshman year, with contributions from some of my classmates. Due to privacy reasons, their names are not mentioned here.
+
+Safia Babiker 2022
